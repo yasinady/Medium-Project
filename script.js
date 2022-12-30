@@ -10,4 +10,4 @@ window.onscroll = function(){
         header.classList.remove('changeMenu')
         button.classList.remove('btnColor')
     }
-} 
+}
